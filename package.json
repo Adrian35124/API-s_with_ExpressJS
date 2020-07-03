@@ -1,0 +1,23 @@
+{
+  "name": "api-s_with_expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adrian35124/API-s_with_ExpressJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adrian35124/API-s_with_ExpressJS/issues"
+  },
+  "homepage": "https://github.com/Adrian35124/API-s_with_ExpressJS#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
